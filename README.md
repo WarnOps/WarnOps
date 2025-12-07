@@ -14,6 +14,8 @@ I'm Alan, a DevOps Engineer from Belfast, Northern Ireland 🇬🇧.
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-%23000?logo=azuredevops&logoColor=white)
 
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=data:image/svg+xml;base64,...)
+
 ## Where to find me 💻
 [![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)](https://github.com/WarnOps)
 [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/alan-warnock-042945139/)
