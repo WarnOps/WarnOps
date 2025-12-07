@@ -11,10 +11,13 @@ I'm Alan, a DevOps Engineer from Belfast, Northern Ireland 🇬🇧.
 ![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg)
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-%23000?logo=azuredevops&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=data:image/svg+xml;base64,...)
 
 ## Where to find me 💻
 [![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)](https://github.com/WarnOps)
