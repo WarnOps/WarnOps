@@ -2,7 +2,8 @@
 Welcome to my GitHub Profile!
 I'm Alan, a DevOps Engineer from Belfast, Northern Ireland 🇬🇧.
 
-## 🛠️ Cloud & Infrastructure Tools
+## 🧑‍💻 What I work with
+### 🛠️ Cloud & Infrastructure Tools
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=azure-devops&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-2C2C32?logo=azuredevops&logoColor=white)
@@ -10,18 +11,18 @@ I'm Alan, a DevOps Engineer from Belfast, Northern Ireland 🇬🇧.
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## 🔄 CI/CD & Automation Frameworks
+### 🔄 CI/CD & Automation Frameworks
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?logo=azure-pipelines&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 
-## 💻 Scripting Languages
+### 💻 Scripting Languages
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?logo=apachegroovy&logoColor=white)
 
-## ⚙️ Core Tools & Platforms
+### ⚙️ Core Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
