@@ -1,32 +1,37 @@
-# Hello World! 👋
+# 👋 Hello World!
 Welcome to my GitHub Profile!
 I'm Alan, a DevOps Engineer from Belfast, Northern Ireland 🇬🇧.
 
-## Tools I use 🪛
-![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg)
-![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg)
-![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)
-![Vs Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
-![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)
-![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg)
+## 🛠️ Cloud & Infrastructure Tools
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=azure-devops&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-2C2C32?logo=azuredevops&logoColor=white)
+![ARM Templates](https://img.shields.io/badge/ARM%20Templates-0089D6?logo=microsoftazure&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
+## 🔄 CI/CD & Automation Frameworks
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?logo=azure-pipelines&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 
+## 💻 Scripting Languages
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?logo=apachegroovy&logoColor=white)
+
+## ⚙️ Core Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
+## 🌐 Socials
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/WarnOps)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-warnock/)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alan.warnock)
 
-## Where to find me 💻
-[![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg)](https://github.com/WarnOps)
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/alan-warnock-042945139/)
 
 <!--
 **WarnOps/WarnOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
