@@ -32,6 +32,12 @@ I'm Alan, a DevOps Engineer from Belfast, Northern Ireland 🇬🇧.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+## 🏆 Certifications
+
+[![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/alanwarnock-2581/credentials/xxxx)
+[![Microsoft Certified: DevOps Engineer Expert](https://img.shields.io/badge/Microsoft%20Certified-DevOps%20Engineer%20Expert-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/alanwarnock-2581/credentials/137e0551b82fa4ad)
+[![Microsoft Certified: Azure Solutions Architect Expert](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Solutions%20Architect%20Expert-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/alanwarnock-2581/credentials/cdeeb0e7a2533686)
+
 ## 🌐 Socials
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/WarnOps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-warnock/)
