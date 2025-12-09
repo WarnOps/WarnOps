@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello World!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello World!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-# Welcome!
+# 👋 Welcome!
 Welcome to my GitHub Profile!
 I'm Alan, a DevOps Engineer from Belfast, Northern Ireland 🇬🇧.
 
