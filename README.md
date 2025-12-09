@@ -1,4 +1,8 @@
-# 👋 Hello World!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello World!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+# Welcome!
 Welcome to my GitHub Profile!
 I'm Alan, a DevOps Engineer from Belfast, Northern Ireland 🇬🇧.
 
@@ -33,6 +37,9 @@ I'm Alan, a DevOps Engineer from Belfast, Northern Ireland 🇬🇧.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-warnock/)
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alan.warnock)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!--
 **WarnOps/WarnOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
